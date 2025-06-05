@@ -93,10 +93,8 @@ if __name__ == "__main__":
     meta_path = os.path.join(BASE_DIR, "editing/editing_metadata_rephrase.json")
     model_name = "gemini_2_flash"
     output_dir = os.path.join(BASE_DIR, "generated_images")
-    
-    # api_key = "AIzaSyDBfIFXa0SirJybmXwdIuWHfPvsTzRTneU"
-    # api_key = "AIzaSyCRxlg6E8GWqLRYDm4dvz7MBkdlKqq21T4"
-    api_key = "AIzaSyARTx0tTnSnU-t7kHWOzpzXQdxB_oW0_Eg"
+
+    api_key = "Your Gemini API"
 
     model_id = "gemini-2.0-flash-exp"
 
