@@ -4,7 +4,7 @@ import subprocess
 import argparse
 from huggingface_hub import login
 
-login("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")
+login("Your huggingface token")
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../"))
 
 def main():

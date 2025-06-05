@@ -23,7 +23,7 @@ OUTPUT_ROOT = os.path.join(BASE_DIR, "generated_images")
 os.makedirs(OUTPUT_ROOT, exist_ok=True)
 CACHE_DIR = os.path.join(BASE_DIR, "cache")
 
-HF_TOKEN = "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"
+HF_TOKEN = "Your huggingface token"
 DIFFUSION_STEPS = 50
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
