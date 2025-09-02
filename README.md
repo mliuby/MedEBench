@@ -1,4 +1,4 @@
-# MedEBench: Revisiting Text-Instructed Image Editing on Medical Domain
+# [EMNLP2025 Findings] MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.01921-b31b1b.svg)](https://arxiv.org/abs/2506.01921)
 
@@ -73,7 +73,7 @@ If you use this project or dataset, please cite us:
 
 ```bibtex
 @misc{liu2025medebenchrevisitingtextinstructedimage, 
-  title={MedEBench: Revisiting Text-instructed Image Editing on Medical Domain}, 
+  title={MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing}, 
   author={Minghao Liu and Zhitao He and Zhiyuan Fan and Qingyun Wang and Yi R. Fung},
   year={2025},
   eprint={2506.01921},
